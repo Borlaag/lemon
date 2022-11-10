@@ -15,6 +15,8 @@ You can learn more about the merits of Zig in the [in-depth overview](https://zi
 - [Chicken Scheme](https://call-cc.org/) implements the above paper, more on it's [garbage collection internals here](https://www.more-magic.net/posts/internals-gc.html) and [the overall compilation here](https://wiki.call-cc.org/chicken-compilation-process).
 - [Lambda Papers](https://en.wikisource.org/wiki/Lambda_Papers) are considered a classic for any budding Scheme enthusiast.
 
+I plan on writing updates and documenting progress on my blog. All posts will have the [lemon](https://borlaag.com/tags/lemon/) tag.
+
 ## Development
 
 **Lemon** is itself implemented in Zig. There are no dependencies beyond Zig itself. See the official [getting started](https://ziglang.org/learn/getting-started/#installing-zig) page for installation instructions.
