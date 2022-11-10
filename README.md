@@ -19,7 +19,7 @@ You can learn more about the merits of Zig in the [in-depth overview](https://zi
 
 **Lemon** is itself implemented in Zig. There are no dependencies beyond Zig itself. See the official [getting started](https://ziglang.org/learn/getting-started/#installing-zig) page for installation instructions.
 
-Once Zig is installed, you can bild and run `lemon`
+Once Zig is installed, you can build and run `lemon`
 
 ```
 zig build
@@ -28,7 +28,7 @@ zig build
 
 ## License
 
-[BSD-3-Clause](https://github.com/Borlaag/Lemon/blob/main/LICENSE)
+[BSD-3-Clause](https://github.com/Borlaag/lemon/blob/main/LICENSE)
 
 ```
 BSD 3-Clause License
