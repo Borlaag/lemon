@@ -1,4 +1,4 @@
-# Lemon
+# lemon
 
 Experimental Scheme implementation ([R7RS-small](https://small.r7rs.org/)) that compiles to [Zig](https://ziglang.org/), as opposed to the more common C target. 
 
